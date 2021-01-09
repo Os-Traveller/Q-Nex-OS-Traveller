@@ -34,7 +34,7 @@ void fess_and_waiver(){
 	switch(key){
 		case 1:
 			aligner(2,"\t");
-			cout << "Winter is Cooming...." << endl;
+			cout << "Winter is Coming...." << endl;
 			break;
 		case 2:
 			pay_online();
